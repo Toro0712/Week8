@@ -1,0 +1,90 @@
+body{
+    background-color: #ededed;
+}
+#homebox{
+    margin-left: 500px;
+    margin-right: 500px; 
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #bddb93;
+    box-shadow: 5px 5px 5px #94b16d;
+}
+.shadowart{
+    box-shadow: 5px 5px 5px #cccccc;
+    height:600px ;
+    width:500px ;
+    border-radius: 10px;
+}
+#options{
+    margin-top: 40px;
+}
+#art{
+    margin-left: 300px;
+    float: left;
+}
+#comms{
+    margin-right: 300px;
+    float: right;
+}
+h1{
+    text-shadow: 1px 5px #c0c0c0;
+}
+h2{
+    text-align: center;
+}
+#artmenu{
+    margin-left: 500px;
+    margin-right: 500px; 
+    padding: 10px;
+    border-radius: 10px;
+    background-color:#e8b45a;
+    box-shadow: 5px 5px 5px #be8a44;
+}
+.artpage{
+    box-shadow: 5px 5px 5px #cccccc;
+    height:500px;
+}
+#commspagebox{
+    margin-left: 500px;
+    margin-right: 500px; 
+    padding: 10px;
+    border-radius: 10px;
+    background-color:#77bdb2;
+    box-shadow: 5px 5px 5px #8ca0ad;
+}
+#form{
+    margin-right: 500px;
+    float: right;
+    background-color:#abdbd4;
+    border-radius: 10px; 
+    padding: 50px;
+    box-shadow: 5px 5px 5px #8ca0ad;
+}
+#commboxes{
+    margin-top: 40px;
+}
+#list{
+    margin-left: 500px;
+    float: left;
+    background-color:#abdbd4;
+    border-radius: 10px; 
+    padding: 50px;
+    box-shadow: 5px 5px 5px #8ca0ad;
+}
+#table{
+    margin-top:420px;
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: #abdbd4;
+    border-radius: 10px; 
+    padding: 10px;
+    box-shadow: 5px 5px 5px #8ca0ad;
+}
+.tablestyle tr:nth-child(even){
+    background-color: #a3bbb7;
+}
+th, td{
+    padding: 5px;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+}
